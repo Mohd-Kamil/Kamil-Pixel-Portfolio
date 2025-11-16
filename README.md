@@ -1,4 +1,4 @@
-# 🖥️ Shruti's Retro OS Portfolio
+# 🖥️ Kamil's Retro OS Portfolio
 
 A pixel-perfect, retro-inspired web portfolio built with React, Tailwind CSS, and Framer Motion — bringing the charm of vintage operating systems to life in the browser.
 
@@ -75,6 +75,6 @@ npm run dev
 
 ---
 
-## 🪄 Live - https://helloshruti.vercel.app/
+## 🪄 Live - [https://helloshruti.vercel.app/](https://kamil-pixel-portfolio.netlify.app/)
 
 
