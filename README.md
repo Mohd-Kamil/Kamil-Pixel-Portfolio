@@ -75,6 +75,6 @@ npm run dev
 
 ---
 
-## 🪄 Live - [https://helloshruti.vercel.app/](https://kamil-pixel-portfolio.netlify.app/)
+## 🪄 Live - https://kamil-pixel-portfolio.netlify.app/
 
 
