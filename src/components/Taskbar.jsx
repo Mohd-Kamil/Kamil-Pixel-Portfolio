@@ -90,7 +90,7 @@ export default function Taskbar({ onAppClick, onThemeChange, currentTheme }) {
         <div className="ml-auto flex leading-sm flex-row px-4 text-sm gap-2 sm:text-2xl">
            <a href="mailto:mohkamil.info@gmail.com" target="_blank"><img src={MailIcon} className= "hover:scale-110 w-4 h-4 sm:w-8 sm:h-8 cursor-pointer" ></img></a>
           <a href="https://github.com/Mohd-Kamil" target="_blank"><img src={Github} className= "hover:scale-110 w-4 h-4 sm:w-8 sm:h-8  cursor-pointer"></img></a>
-          <a href="https://github.com/Mohd-Kamil" target="_blank"><img src={LinkedIn} className= "hover:scale-110 w-4 h-4 sm:w-8 sm:h-8 cursor-pointer" ></img></a>
+          <a href="https://www.linkedin.com/in/mohd-kamil-/" target="_blank"><img src={LinkedIn} className= "hover:scale-110 w-4 h-4 sm:w-8 sm:h-8 cursor-pointer" ></img></a>
          {currentTheme === "morning" ? 
           ( <img src={morning} className= "hover:scale-110 w-4 h-4 sm:w-8 sm:h-8  cursor-pointer" onClick={() => onThemeChange("night")}></img>):
            (<img src={night} className="hover:scale-110  w-4 h-4 sm:w-8 sm:h-8 cursor-pointer" onClick={() => onThemeChange("morning")}></img>)
